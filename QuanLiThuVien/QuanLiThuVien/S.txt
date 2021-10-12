@@ -1,0 +1,4 @@
+
+0001	Toi Thay Hoa Vang Tren Co Xanh	Nguyen Nhat Anh	Nha Xuat Ban Tre	2010	Sach Thieu Nhi	82000	1
+0002	7 Thoi Quen Cua Ban Tre Thanh Dat	Sean covey	Nha Xuat Ban Tre	2011	Sach Ki Nang Song	60000	2
+0003	Chien Thang Con Quy Trong Ban	Napoleon Hill	Nha Xuat Ban Tre	2013	Sach Nghe Thuat Song Dep	76000	3
